@@ -9,9 +9,9 @@
 var num2 = 0;
 
 function suma(num1) {
-return function() {
-return num1 + num2;
-}
+    return function() {
+       return num1 + num2;
+    }
 } 
 
 var suma2 = suma(2);
@@ -25,9 +25,9 @@ console.log(suma12(76)) // Debería mostrar 88 de resultado.
 ```javascript
 
 function suma(num1) {
-return function() {
-return num1 + num2;
-}
+     return function() {
+         return num1 + num2;
+      }
 } 
 
 var suma2 = suma(2);
