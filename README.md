@@ -1,7 +1,4 @@
-# closures.ejercicio20
 
-##Contexto
-###Ejercicio Inicial
 # closures.ejercicio20
 
 ##Contexto
