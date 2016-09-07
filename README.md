@@ -20,9 +20,10 @@ console.log(suma2(5)); // Debería mostrar 7 de resultado
 var suma12 = suma(12);
 console.log(suma12(76)) // Debería mostrar 88 de resultado.
 ```
+###Resultado final del ejercicio final 
+
 ```javascript
 
-###Resultado final del ejercicio final 
 function suma(num1) {
 return function() {
 return num1 + num2;
